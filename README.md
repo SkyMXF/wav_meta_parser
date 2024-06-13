@@ -1,4 +1,4 @@
-# wav_description_util
+# wav_meta_parser
 
 
 
@@ -6,11 +6,11 @@
 
 ### Install to your python project
 ```
-git clone git@gitlab.hypergryph.net:audio/wav_description_util.git
+git clone git@gitlab.hypergryph.net:audio/wav_meta_parser.git
 ```
 
 ### Update in your python project
 ```
-cd wav_description_util
+cd wav_meta_parser
 git pull
 ```
