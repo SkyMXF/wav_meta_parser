@@ -162,5 +162,4 @@ cython_debug/
 .idea/
 
 # inner project
-src/wav_meta_parser/README.md
-src/wav_meta_parser/.git/
+src/README.md
